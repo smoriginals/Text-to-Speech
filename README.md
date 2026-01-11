@@ -5,18 +5,18 @@
 Text-to-Speech is a simple and interactive web application that converts written text into spoken audio directly in the browser. Users can type any text, choose their preferred language or voice, adjust the speech rate and pitch, and control playback using play and stop buttons. The app runs entirely in the browser and does not require any external libraries or frameworks.
 
 ## Features
-Convert typed text into speech instantly
-Multiple language and voice selection
-Adjustable speech rate and pitch
-Play and stop controls for speech output
-Lightweight and fully browser-based
-No backend or framework required
+- Convert typed text into speech instantly
+- Multiple language and voice selection
+- Adjustable speech rate and pitch
+- Play and stop controls for speech output
+- Lightweight and fully browser-based
+- No backend or framework required
 
 ## Technology Used
 
-HTML
-CSS
-Pure JavaScript (Web Speech API)
+- HTML
+- CSS
+- Pure JavaScript (Web Speech API)
 
 # License 
 
